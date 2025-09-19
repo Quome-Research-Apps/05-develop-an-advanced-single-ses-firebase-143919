@@ -1,0 +1,1 @@
+{"name": "05-develop-an-advanced-single-ses-firebase-143919", "spec": {"port": 8000, "containers": [{"image": "", "name": "05-develop-an-advanced-single-ses-firebase-143919", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
